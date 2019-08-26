@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="4.0.0"></a>
+## [4.0.0](https://github.com/conventional-changelog/releaser-tools/compare/conventional-github-releaser@3.1.2...conventional-github-releaser@3.1.3) (2019-06-03)
+
+### Features
+
+* ***cli*** add preset config flag
+
+### BREAKING CHANGES
+
+* Preset passed as object with name and optional overwrites.
+
 <a name="3.1.3"></a>
 ## [3.1.3](https://github.com/conventional-changelog/releaser-tools/compare/conventional-github-releaser@3.1.2...conventional-github-releaser@3.1.3) (2019-06-03)
 
